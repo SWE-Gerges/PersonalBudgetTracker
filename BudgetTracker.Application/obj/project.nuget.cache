@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rEtp2PrC6es=",
+  "success": true,
+  "projectFilePath": "/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Application/BudgetTracker.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/Goosa/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
