@@ -1,0 +1,16 @@
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Application/bin/Debug/net9.0/BudgetTracker.Application.deps.json
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Application/bin/Debug/net9.0/BudgetTracker.Application.dll
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Application/bin/Debug/net9.0/BudgetTracker.Application.pdb
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Application/bin/Debug/net9.0/BudgetTracker.Domain.dll
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Application/bin/Debug/net9.0/BudgetTracker.Domain.pdb
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Application/obj/Debug/net9.0/BudgetTracker.Application.csproj.AssemblyReference.cache
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Application/obj/Debug/net9.0/BudgetTracker.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Application/obj/Debug/net9.0/BudgetTracker.Application.AssemblyInfoInputs.cache
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Application/obj/Debug/net9.0/BudgetTracker.Application.AssemblyInfo.cs
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Application/obj/Debug/net9.0/BudgetTracker.Application.csproj.CoreCompileInputs.cache
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Application/obj/Debug/net9.0/BudgetTracker.Application.sourcelink.json
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Application/obj/Debug/net9.0/BudgetTr.359E2BA9.Up2Date
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Application/obj/Debug/net9.0/BudgetTracker.Application.dll
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Application/obj/Debug/net9.0/refint/BudgetTracker.Application.dll
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Application/obj/Debug/net9.0/BudgetTracker.Application.pdb
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Application/obj/Debug/net9.0/ref/BudgetTracker.Application.dll

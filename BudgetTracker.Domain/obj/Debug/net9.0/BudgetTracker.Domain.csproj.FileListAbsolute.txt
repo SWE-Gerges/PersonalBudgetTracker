@@ -1,0 +1,12 @@
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Domain/bin/Debug/net9.0/BudgetTracker.Domain.deps.json
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Domain/bin/Debug/net9.0/BudgetTracker.Domain.dll
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Domain/bin/Debug/net9.0/BudgetTracker.Domain.pdb
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Domain/obj/Debug/net9.0/BudgetTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Domain/obj/Debug/net9.0/BudgetTracker.Domain.AssemblyInfoInputs.cache
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Domain/obj/Debug/net9.0/BudgetTracker.Domain.AssemblyInfo.cs
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Domain/obj/Debug/net9.0/BudgetTracker.Domain.csproj.CoreCompileInputs.cache
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Domain/obj/Debug/net9.0/BudgetTracker.Domain.sourcelink.json
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Domain/obj/Debug/net9.0/BudgetTracker.Domain.dll
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Domain/obj/Debug/net9.0/refint/BudgetTracker.Domain.dll
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Domain/obj/Debug/net9.0/BudgetTracker.Domain.pdb
+/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Domain/obj/Debug/net9.0/ref/BudgetTracker.Domain.dll
