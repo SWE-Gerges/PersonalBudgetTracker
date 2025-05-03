@@ -11,9 +11,15 @@ builder.Services.AddOpenApi();
 
 // Add DbContext
 // string connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
-string connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+string connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? "";
+Console.WriteLine($"ConnectionString: {connectionString}");
+
+// builder.Services.AddDbContext<BudgetDbContext>(options =>
+//     options.UseSqlServer(connectionString));
 builder.Services.AddDbContext<BudgetDbContext>(options =>
-    options.UseSqlServer(connectionString));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

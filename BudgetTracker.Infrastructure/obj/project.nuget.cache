@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DFEA7lLGcTw=",
+  "dgSpecHash": "RbwG025EKPg=",
   "success": true,
   "projectFilePath": "/home/Goosa/Desktop/WebProjects/PersonalBudgetTracker/BudgetTracker.Infrastructure/BudgetTracker.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -25,6 +25,7 @@
     "/home/Goosa/.nuget/packages/microsoft.entityframeworkcore.design/9.0.4/microsoft.entityframeworkcore.design.9.0.4.nupkg.sha512",
     "/home/Goosa/.nuget/packages/microsoft.entityframeworkcore.relational/9.0.4/microsoft.entityframeworkcore.relational.9.0.4.nupkg.sha512",
     "/home/Goosa/.nuget/packages/microsoft.entityframeworkcore.sqlserver/9.0.4/microsoft.entityframeworkcore.sqlserver.9.0.4.nupkg.sha512",
+    "/home/Goosa/.nuget/packages/microsoft.entityframeworkcore.tools/9.0.4/microsoft.entityframeworkcore.tools.9.0.4.nupkg.sha512",
     "/home/Goosa/.nuget/packages/microsoft.extensions.caching.abstractions/9.0.4/microsoft.extensions.caching.abstractions.9.0.4.nupkg.sha512",
     "/home/Goosa/.nuget/packages/microsoft.extensions.caching.memory/9.0.4/microsoft.extensions.caching.memory.9.0.4.nupkg.sha512",
     "/home/Goosa/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.4/microsoft.extensions.configuration.abstractions.9.0.4.nupkg.sha512",
